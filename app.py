@@ -6,11 +6,11 @@
 
 # FUNÇÃO
 
-'''
-def fun ():
-    print("Função")
-fun()
-'''
+
+#def fun ():
+#    print("Função")
+#fun()
+
 
 # CALCULADORA
 
