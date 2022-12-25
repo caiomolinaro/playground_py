@@ -6,11 +6,9 @@
 
 # FUNÇÃO
 
-
 #def fun ():
 #    print("Função")
 #fun()
-
 
 # CALCULADORA
 
@@ -38,6 +36,5 @@ def calculadora():
 
     else :
         print("Você digitou algo errado")
-
 
 calculadora()
