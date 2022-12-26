@@ -20,3 +20,6 @@ elif imc >= 30.0 and imc <= 39.9 :
 
 elif imc > 40 :
     print(nome, "Seu imc é", imc, "Você se enquadra na classificação de: OBESIDADE GRAVE e Obesidade grau II")
+
+else :
+    print("Valores errados digitados")
